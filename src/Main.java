@@ -45,6 +45,7 @@ public class Main {
                     gameRunning = false;
                     System.out.println("Spelet avslutas");
                     break;
+
                 default:
                     System.out.println("Ogiltig val, försök igen");
             }
